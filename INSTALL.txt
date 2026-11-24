@@ -1,0 +1,1 @@
+Deploy as Docker service. Configure external MySQL environment variables. Then visit /install.php once. Set persistent database and HTTPS.
